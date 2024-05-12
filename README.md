@@ -76,6 +76,6 @@ By leveraging artificial intelligence, our project seeks to address the challeng
 
 Meet the talented individuals behind SmartTravel Planner:
 
-- **Sara Almutairi**
-- **Abdulaziz Alhaqbani**
-- **Eman Talal**
+- Sara Almutairi
+- Abdulaziz Alhaqbani
+- Eman Talal
