@@ -39,7 +39,7 @@ To gather feedback and insights for our project, we will ask users the following
 Based on the data collected, we have developed an affinity map and drawn conclusions to address the identified 
 challenges in trip planning. Our analysis highlights the importance of technology and artificial intelligence in enhancing the travel industry.
 
-## **Prototype**
+## 🪟**Prototype**
 
 ### Low Fidelity
 <img src="https://drive.google.com/uc?id=1_IMi9Qxul2leVkLcvc8C8C0J8xnJLpBu" alt="Low Fidelity Prototype" width="600">
@@ -57,14 +57,14 @@ challenges in trip planning. Our analysis highlights the importance of technolog
 <img src="https://drive.google.com/uc?id=1k1a3n4JlIryqxX0GP0VmYCtht4KWj2ht" alt="Environment Design" width="600">
 
 
-## 🛠️ **Tools:**: Figma
+## 🛠️ **Tools:** Figma
 We utilized the following tools in the development process: [Figma](https://2u.pw/5g7dAVnV)
 
 ## 🎨 **Presentation:** 
 You can view our presentation slides created on Canva [here](https://2u.pw/f91yMzCC).
 
-## 📑 **Document Plan Search:** 
-You can access our document plan search [here](https://2u.pw/oVU77sV2).
+## 📑 **Document Plan Research:** 
+You can access our document plan research [here](https://2u.pw/oVU77sV2).
 
 
 
