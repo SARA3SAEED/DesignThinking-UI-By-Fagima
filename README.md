@@ -71,3 +71,8 @@ You can access our document plan research [here](https://2u.pw/oVU77sV2).
 ## 🌟 **Conclusion:** 
 SmartTravel Planner aims to transform the travel experience by providing personalized recommendations and simplifying the trip planning process. 
 By leveraging artificial intelligence, our project seeks to address the challenges faced by travelers and create memorable travel experiences for users.
+
+##🥇 our team :
+-Sara almutairi 
+-abdulaziz alhaqbani
+-Eman talal
