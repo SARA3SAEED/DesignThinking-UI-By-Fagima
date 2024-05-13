@@ -28,11 +28,11 @@ By creating personalized travel itineraries tailored to users' preferences and b
 
 ## ❓ **Questions:** 
 To gather feedback and insights for our project, we will ask users the following questions:
-1. **Are you a fan of traveling?**
-2. **Do you encounter any difficulties when booking your travel?**
-3. **Do you deal with travel agencies to arrange your travel itinerary?**
-4. **Are you satisfied with your current travel plan in terms of hotel quality or restaurant choices?**
-5. **Would you like to have a smart website that allows you to specify your destination and helps you create a comprehensive travel plan that fits your budget?** 
+1. Are you a fan of traveling?
+2. Do you encounter any difficulties when booking your travel?
+3. Do you deal with travel agencies to arrange your travel itinerary?
+4. Are you satisfied with your current travel plan in terms of hotel quality or restaurant choices?
+5. Would you like to have a smart website that allows you to specify your destination and helps you create a comprehensive travel plan that fits your budget?
    We use Google Form: [Questionnaire Form](https://2u.pw/801s1nyY).
 
 ## 📊 **Analysis:** 
