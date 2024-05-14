@@ -41,7 +41,6 @@ challenges in trip planning. Our analysis highlights the importance of technolog
 
 <img src="https://drive.google.com/file/d/1dnl4vtvk7oj9lYWAbQAl1zMsrI4GHY_R/view?usp=drivesdk" alt="analysis" width="600">
 
-
 ## 🪟**Prototype**
 
 ### Low Fidelity
