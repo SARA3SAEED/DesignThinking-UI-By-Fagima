@@ -39,7 +39,8 @@ To gather feedback and insights for our project, we will ask users the following
 Based on the data collected, we have developed an affinity map and drawn conclusions to address the identified 
 challenges in trip planning. Our analysis highlights the importance of technology and artificial intelligence in enhancing the travel industry.
 
-<img src="https://drive.google.com/file/d/1dnl4vtvk7oj9lYWAbQAl1zMsrI4GHY_R/view?usp=drivesdk" alt="analysis">
+<img src="https://drive.google.com/uc?id=1dnl4vtvk7oj9lYWAbQAl1zMsrI4GHY_R" alt="Analysis" width="600">
+
 
 ## 🪟**Prototype**
 
